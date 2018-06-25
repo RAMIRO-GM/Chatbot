@@ -2,22 +2,22 @@
 Smart chatbot to automate frequented information.
 
 
-##Problem.
+## Problem.
 Waste of time and resources caused by misinformation of employees.
 Same/repetitive questions = Similar/repetitive answers.
 
-##Solution
+## Solution
 
 Facilitate the communication  between departments in the company, by the automatization of responses to frequent questions. 
 
-##Future Work
+## Future Work
 Execute actions/processes.
 
 Using Machine learning/NLP to identify intent of the messages, extract entities and provide an immediate response.
 
 Have special permissions (authorized people who can do certain procedures).
 
-##Chat bot
+## Chat bot
 This chatbot it is able to give immediate responses in 3 possible scenarios:
 No matter the sintaxis or the words used it identifies the intention of the message.
 
